@@ -1,0 +1,6 @@
+Han Xiao
+***********
+This package is for robotics kinematics semester project and labs.
+It includes robot kinematics computations with Eigen library.
+It contains simulation and visualization for the UR5 robot.
+The me530646_project is a package for simple UR5 path planning.
